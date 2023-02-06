@@ -1,0 +1,6 @@
+/bazel-bin
+/bazel-Monorepo
+/bazel-out
+/bazel-testlogs
+/vendor
+
